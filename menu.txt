@@ -1,7 +1,1 @@
-dosa
-<<<<<<< HEAD
 
-
-=======
-idly
->>>>>>> parent of 49bb423 (added vada)
